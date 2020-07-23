@@ -43,6 +43,7 @@ services:
             - "5432:5432"
         environment:
             POSTGRES_PASSWORD: example
+            POSTGRES_DB: example_db
         volumes:
             - ./postgres/data:/var/lib/postgresql/data
 
