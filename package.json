@@ -19,7 +19,7 @@
   },
   "homepage": "https://github.com/crizitjoseph/docker-compose-test#readme",
   "dependencies": {
-    "express": "^4.17.1",
+    "express": "^4.17.3",
     "ftp": "^0.3.10",
     "nodemon": "^2.0.4",
     "pg": "^8.3.0",
